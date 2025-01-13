@@ -1,0 +1,1 @@
+Download static files in this folder order: Python-Mental-Health-Chatbot/ChatbotWebsite/static/ from this link: https://github.com/TheanYeeSin/Python-Mental-Health-Chatbot/tree/main/ChatbotWebsite/static
